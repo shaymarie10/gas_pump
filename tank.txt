@@ -1,0 +1,5 @@
+type, gas_code, amount_in_tank, price
+regular, 1, 4000.0, 2.07
+mid-grade, 2, 2000.0, 2.1
+premium, 3, 4000.0, 2.2
+diesel, 4, 4000.0, 3.1
